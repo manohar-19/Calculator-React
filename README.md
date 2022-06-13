@@ -1,5 +1,5 @@
 # Calculator-React
 Created with CodeSandbox
 
-# demo of calculator
+# demo for calculator
 https://csb-kmucvs.netlify.app/
